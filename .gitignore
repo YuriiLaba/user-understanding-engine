@@ -1,0 +1,10 @@
+__pycache__/
+raw_data/
+.dev_env/
+input_data/
+output_data/
+.DS_Store
+.env
+data/
+CLAUDE.md
+logs/

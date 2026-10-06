@@ -1,0 +1,5 @@
+-r requirements.txt
+ocrmac==1.0.0; sys_platform == "darwin"
+mlx-vlm; sys_platform == "darwin"
+torchvision
+
